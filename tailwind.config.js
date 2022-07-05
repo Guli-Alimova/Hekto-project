@@ -10,8 +10,8 @@ module.exports = {
             screens:{
                 sm:'640px',
                 md:'768px',
-                lg:'1024px',
-                xl:'1200px'
+                lg:'1177px',
+             
             },
             transitionTimingFunction: {
               'in-expo': 'cubic-bezier(0.95, 0.05, 0.795, 0.035)',

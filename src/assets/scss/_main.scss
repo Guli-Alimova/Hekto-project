@@ -16,12 +16,12 @@ input{
 }
 
 body{
-    font-family: 'DM Serif Display', serif;
+    font-family: 'Lato', sans-serif;
     margin:0;
     padding:0;
-    font-size:22px;
-    color:#4D5053;
-    background-color:#F5F5F5; ;
+    font-size:16px;
+    color:#8A8FB9;
+    background-color:#E5E5E5;
 }
 @for $i from 1 through 15 {
     .line-clamp-#{$i} {
